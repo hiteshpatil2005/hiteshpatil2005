@@ -39,7 +39,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ### Competitive Coding Platforms
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/hiteshpatil2005)
-  <a href="https://https://www.hackerrank.com/profile/hiteshpatil0205"><img src="Assest/HackerRank.svg" width="50"></a>
+  <a href="https://www.hackerrank.com/profile/hiteshpatil0205"><img src="Assest/HackerRank.svg" width="50"></a>
   
   ### Connect With Me 📪
   
