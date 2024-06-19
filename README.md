@@ -38,12 +38,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   </a>
 
 ### Competitive Coding Platforms
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
-  <a href="https://www.hackerrank.com/profile/hiteshpatil2005"><img src="Assest/HackerRank.svg" width="50"></a>
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/hiteshpatil2005)
+  <a href="https://https://www.hackerrank.com/profile/hiteshpatil0205"><img src="Assest/HackerRank.svg" width="50"></a>
   
   ### Connect With Me 📪
   
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiteshpatil2005)    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hiteshpatil2005)     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:hiteshpatil2005@gmail.com)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiteshpatil2005)    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hiteshpatil2005)     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:hiteshpatil0205@gmail.com)
 
 <!--Github Profile Stats--->
     
