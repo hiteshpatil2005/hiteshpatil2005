@@ -1,8 +1,30 @@
 
- <h1 align="center" >Hi 👋, I'm Hitesh Patil</h1>
-<h3 align="center">A passionate IT Engineering Student from Maharashtra, India</h3>
+<!--Header Image --->
 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+<!--Welcome Prompt --->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!"/>
+</h1>
+
+<!--Github Trophies--->
+
+### Github Trophies 🏆 
+
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--About Me Section--->
+
+### About Me 🚀
+<div>
+<p>
+I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
+Currently seeking opportunities to learn and grow. 
+</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
