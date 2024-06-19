@@ -44,3 +44,18 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   ### Connect With Me 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
+
+ <!----Profile Views--->
+         
+<h2 align="center">⚡️Visitors ⚡️</h2>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
+</div>
+
+<!---snake gif Available in Assests-->
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+
+<!--Footer-->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
