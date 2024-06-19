@@ -50,11 +50,11 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center">⚡️Visitors ⚡️</h2>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
 <!---snake gif Available in Assests-->
- <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+ <img width="1000" src="Assest/github-snake.svg" alt="snake"/>
 
 <!--Footer-->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
