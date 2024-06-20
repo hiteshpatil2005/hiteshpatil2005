@@ -21,7 +21,7 @@
 ### About Me 🚀
 <div>
 <p>
-I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
+I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented IT Engineering student on a journey to bridge the digital realm.
 Currently seeking opportunities to learn and grow. 
 </p>
 </div>
