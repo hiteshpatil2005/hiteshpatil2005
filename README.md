@@ -1,7 +1,7 @@
 
 <!--Header Image --->
 
-<p align="center"><img src="Assest/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif"></p>
+<p align="center"><img src="Assest/BlueBanner.png"></p>
 
 <!--Welcome Prompt --->
 
