@@ -79,7 +79,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
  <img height="300" width="450" src="Assest/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
  </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=❤️+Thanks+For+Visiting+❤️;Keep+Coding+....."/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=❤️+Thanks+For+Visiting+❤️;Keep+Coding+.....+!!"/>
 </h1>
 <!--Footer-->
 <div align="center">
