@@ -23,7 +23,7 @@
 
 <!--About Me Section--->
 
-### About Me 🚀
+### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="40">
 <div>
 <p>
 I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented IT Engineering student on a journey to bridge the digital realm.
