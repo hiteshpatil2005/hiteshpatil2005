@@ -10,7 +10,7 @@
 </h1>
 
 <!--Github Trophies--->
-### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="40">
+### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="37">
 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -23,7 +23,7 @@
 
 <!--About Me Section--->
 
-### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="40">
+### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="37">
 <div>
 <p>
 I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented IT Engineering student on a journey to bridge the digital realm.
