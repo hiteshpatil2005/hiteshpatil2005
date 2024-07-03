@@ -86,7 +86,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assest/github-snake.svg" alt="snake"/>
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
  
  <div align="center">
  <img height="300" width="450" src="Assest/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
