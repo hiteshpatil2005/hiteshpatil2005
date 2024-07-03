@@ -9,6 +9,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Boost+your+ideas+here+!!!"/>
 </h1>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
 <!--Github Trophies--->
 ### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="37">
 
