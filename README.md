@@ -31,6 +31,8 @@ Currently seeking opportunities to learn and grow.
 </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
 <h2 align="center"><img src="Assest/code.gif" height="20"/>  My Tech Stack  <img src="Assest/code.gif" height="20"/></h2>
 
 
@@ -50,7 +52,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiteshpatil2005)    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hiteshpatil2005)     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:hiteshpatil0205@gmail.com)
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 <!--Github Profile Stats--->
     
