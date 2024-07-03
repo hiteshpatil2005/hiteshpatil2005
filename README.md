@@ -84,6 +84,14 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
+<p align="center">
+  <a href="https://github.com/hiteshpatil2005?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=5A5A5B&labelColor=099DE2" >
+  <a href="https://github.com/hiteshpatil2005?tab=followers"><img
+src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=5A5A5B&labelColor=099DE2" /></a>
+
+</p>
+
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assest/github-snake.svg" alt="snake"/>
 
