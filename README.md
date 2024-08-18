@@ -43,7 +43,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 ### Languages 💡
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,kotlin" />
   </a>
 
 ### Competitive Coding Platforms
