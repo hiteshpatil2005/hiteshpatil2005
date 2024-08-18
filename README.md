@@ -29,11 +29,10 @@
 
 ### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="37"><br>
 <div>
-<p>
-I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented IT Engineering student on a journey to bridge the digital realm.
+
+I am Hitesh Patil from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7) . An energetic and detail-oriented IT Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
 Currently seeking opportunities to learn and grow. As a learner I am always ready to seek the good opportunites and to develop my knowledge 
 in the field of Software Development.
-</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
