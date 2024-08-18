@@ -39,16 +39,78 @@ Currently seeking opportunities to learn and grow.
 
 
 Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
+<br><br>
+<h2 align="center">Languages and Tools :<br><br>
+<table align="center">
+    <tr>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python" />
+            </a>
+            <br>Python
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c" />
+            </a>
+            <br>C
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java" />
+            </a>
+            <br>Java
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html" />
+            </a>
+            <br>HTML
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=css" />
+            </a>
+            <br>CSS
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js" />
+            </a>
+            <br>JavaScript
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=kotlin" />
+            </a>
+            <br>Kotlin
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=androidstudio" />
+            </a>
+            <br>Android Studio
+        </td>
+    </tr>
+</table>
 
-### Languages 💡
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,kotlin" />
-  </a>
-
-### Competitive Coding Platforms
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/hiteshpatil2005)
-  <a href="https://www.hackerrank.com/profile/hiteshpatil0205"><img src="Assest/HackerRank.svg" width="50"></a>
+<h2 align="center"> Competitive Coding Platforms :<br><br>
+    <table align="center">
+        <tr>
+            <td align="center" width="100">
+            <a href="https://leetcode.com/u/hiteshpatil2005">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
+            </a>
+        </td>
+            <td align="center" width="100">
+            <a href="https://www.hackerrank.com/profile/hiteshpatil0205">
+            <img src="Assest/HackerRank.svg" />
+            </a>
+        </td>
+        </tr>
+    </table>
   
   ### Connect With Me 📪
   
