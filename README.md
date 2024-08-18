@@ -48,7 +48,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <tr>
         <td align="center" width="100">
             <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python" />
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
+            </a>
+            <br>Java
+        </td>
+        <td align="center" width="100">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
             </a>
             <br>Python
         </td>
@@ -57,12 +62,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://skillicons.dev/icons?i=c" />
             </a>
             <br>C
-        </td>
-        <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java" />
-            </a>
-            <br>Java
         </td>
         <td align="center" width="100">
             <a href="https://skillicons.dev">
