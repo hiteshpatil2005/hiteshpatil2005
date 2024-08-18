@@ -78,9 +78,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>CSS
         </td>
         <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js" />
-            </a>
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />            
             <br>JavaScript
         </td>
         <td align="center" width="100">
