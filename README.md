@@ -19,18 +19,20 @@
 
 ### Working On ⚡️
     
-- Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement
+- Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement.
 
-- Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository
-- 
+- Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository.
+
+- Devloped a project of [Language Learning Flashcard](https://github.com/hiteshpatil2005/Language-Learning-Flashcard) with the help of Python and its GUI framework Tkinter.
 
 <!--About Me Section--->
 
-### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="37">
+### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="37"><br>
 <div>
 <p>
 I am Hitesh Patil from Maharashtra,India. An energetic and detail-oriented IT Engineering student on a journey to bridge the digital realm.
-Currently seeking opportunities to learn and grow. 
+Currently seeking opportunities to learn and grow. As a learner I am always ready to seek the good opportunites and to develop my knowledge 
+in the field of Software Development.
 </p>
 </div>
 
