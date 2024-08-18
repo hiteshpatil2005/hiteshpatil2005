@@ -40,7 +40,7 @@ Currently seeking opportunities to learn and grow.
 
 Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
 <br><br>
-<h2 align="center">Languages and Tools :<br><br>
+<h2 align="center">Languages and Tools :</h2><br>
 <table align="center">
     <tr>
         <td align="center" width="100">
@@ -95,8 +95,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </td>
     </tr>
 </table>
-
-<h2 align="center"> Competitive Coding Platforms :<br><br>
+<br>
+<h2 align="center"> Competitive Coding Platforms :</h2><br>
     <table align="center">
         <tr>
             <td align="center" width="100">
@@ -111,10 +111,30 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </td>
         </tr>
     </table>
-  
-  ### Connect With Me 📪
-  
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiteshpatil2005)    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hiteshpatil2005)     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:hiteshpatil0205@gmail.com)
+  <br>
+  <h2 align="center"> Connect With Me 📪</h2>><br>
+  <table align="center">
+        <tr>
+            <td align="center" width="100">
+            <a href="https://www.linkedin.com/in/hiteshpatil2005">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+            </a>
+            <br>Linkedin
+        </td>
+            <td align="center" width="100">
+            <a href="https://twitter.com/hiteshpatil2005">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+            </a>
+            <br>Twitter
+        </td>
+            <td align="center" width="100">
+            <a href="mailto:hiteshpatil0205@gmail.com">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+            </a>
+            <br>Gmail
+        </td>
+        </tr>
+    </table>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
