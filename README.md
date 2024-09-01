@@ -17,7 +17,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Working On ⚡️
+### Working On <img src="Assest/activity.gif" height="30">
     
 - Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement.
 
@@ -162,7 +162,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
          
-<h2 align="center">⚡️Visitors ⚡️</h2>
+<h2 align="center"><img src="Assest/activity.gif" height="30"> Visitors <img src="Assest/activity.gif" height="30"></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=blueviolet" alt=""/>
