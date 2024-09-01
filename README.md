@@ -114,7 +114,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </tr>
     </table>
   <br>
-  <h2 align="center"> Connect With Me 📪</h2><br>
+  <h2 align="center"><img src="Assests/Follow.gif" width="30"> Connect With Me <img src="Assests/Follow.gif" width="30"></h2><br>
   <table align="center">
         <tr>
             <td align="center" width="100">
