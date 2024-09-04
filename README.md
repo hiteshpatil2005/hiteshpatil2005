@@ -17,7 +17,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Working On <img src="Assest/activity.gif" height="30">
+### Working On <img src="Assest/activity.gif" height="25">
     
 - Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement.
 
