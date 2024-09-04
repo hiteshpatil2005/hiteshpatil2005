@@ -1,7 +1,7 @@
 
 <!--Header Image --->
 
-<p align="center"><img src="Assest/vaporwave.gif"></p>
+<p align="center"><img src="Assest/BlueBanner.png"></p>
 
 <!--Welcome Prompt --->
 
