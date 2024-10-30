@@ -157,7 +157,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
  <h2 align="center"><img src="Assests/giphy.gif" width="30"> 🎯 My GitHub Commits Stats 🎯 <img src="Assests/giphy.gif" width="30"></h2>
 
- <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph">
+ <img width=590 height=400 src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
