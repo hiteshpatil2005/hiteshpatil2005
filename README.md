@@ -23,7 +23,7 @@
 
 - Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository.
 
-- Devloped a project of [Language Learning Flashcard](https://github.com/hiteshpatil2005/Language-Learning-Flashcard) with the help of Python and its GUI framework Tkinter.
+- Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Python and its GUI framework Tkinter.
 
 <!--About Me Section--->
 
