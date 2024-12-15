@@ -17,6 +17,16 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--About Me Section--->
+
+### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/stats.gif" height="37"><br>
+<div>
+
+I am Hitesh Patil from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7) . An energetic and detail-oriented IT Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
+Currently seeking opportunities to learn and grow. As a learner I am always ready to seek the good opportunites and to develop my knowledge 
+in the field of Software Development.
+</div>
+
 ### Working On <img src="Assest/activity.gif" height="25">
     
 - Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement.
@@ -24,16 +34,6 @@
 - Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository.
 
 - Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Python and its GUI framework Tkinter.
-
-<!--About Me Section--->
-
-### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/rocket-joypixels.gif" height="37"><br>
-<div>
-
-I am Hitesh Patil from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7) . An energetic and detail-oriented IT Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
-Currently seeking opportunities to learn and grow. As a learner I am always ready to seek the good opportunites and to develop my knowledge 
-in the field of Software Development.
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
