@@ -110,7 +110,11 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <td align="center" width="100">
             <a href="https://www.codechef.com/users/hitesh_2005">
             <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" />
-        </td>    
+        </td> 
+            <td align="center" width="100">
+            <a href="https://www.geeksforgeeks.org/user/hiteshpatil2005/">
+            <img src="Assest/gfg.png" />
+        </td>
         </tr>
     </table>
   <br>
