@@ -68,6 +68,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             </a>
             <br>HTML
         </td>
+        <td align="center" width="50">
+            <a href="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg">
+            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" />
+            </a>
+            <br>XML
+        </td>
     </tr>
     <tr>
         <td align="center" width="100">
