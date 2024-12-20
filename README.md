@@ -135,13 +135,13 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         <tr>
             <td align="center" width="100">
             <a href="https://www.linkedin.com/in/hiteshpatil2005">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
+            <img src="Assest/linkedin%20gif.gif" />
             </a>
             <br>Linkedin
         </td>
             <td align="center" width="100">
             <a href="https://twitter.com/hiteshpatil2005">
-            <img src="https://skillicons.dev/icons?i=twitter" />
+            <img src="Assest/twitter.gif" />
             </a>
             <br>Twitter
         </td>
