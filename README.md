@@ -42,7 +42,7 @@ in the field of Software Development.
 
 Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
 <br><br>
-<h2 align="center">Languages and Tools :</h2><br>
+<h2 align="center"><img src="Assest/Firecracker.webp" height="40"/>Languages and Tools <img src="Assest/Firecracker.webp" height="40"/></h2><br>
 <table align="center">
     <tr>
         <td align="center" width="100">
