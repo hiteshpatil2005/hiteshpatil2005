@@ -1,7 +1,7 @@
 
 <!--Header Image --->
 
-<p align="center" ><img src="Assest/BlueBanner.png"></p>
+<p align="center" ><img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/profile%20programming%20language%20banner.webp" height="500" width="1000"></p>
 
 <!--Welcome Prompt --->
 
