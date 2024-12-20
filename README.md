@@ -22,7 +22,7 @@
 ### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/stats.gif" height="37"><br>
 <div>
 
-I am Hitesh Patil from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7) <img src="Assest/Flag%20India.webp" height="30" width="30"> . An energetic and detail-oriented IT Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
+I am Hitesh Patil from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). An energetic and detail-oriented IT Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
 Currently seeking opportunities to learn and grow. As a learner I am always ready to seek the good opportunites and to develop my knowledge 
 in the field of Software Development.
 </div>
