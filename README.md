@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 <!--Github Trophies--->
-### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="37">
+### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="40">
 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -119,7 +119,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 </p>
 
 <p align=center>
-   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%" alt="top langs" />
+   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="90%" alt="top langs" />
 </p>
  <!----Profile Views--->
 
