@@ -6,7 +6,7 @@
 <!--Welcome Prompt --->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;This+is+Hitesh+Patil+!!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&text_color=00D1FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;This+is+Hitesh+Patil+!!"/>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
@@ -160,38 +160,35 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 <br/>
-<div align=center>
-  <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
-    <br/>
-    <br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hiteshpatil2005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
-  <br/>
-    <br/>
-   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    
+<p align=center>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hiteshpatil2005&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+
+<p align=center>
+   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%" alt="top langs" />
+</p>
  <!----Profile Views--->
-
- <h2 align="center"><img src="Assests/giphy.gif" width="30"> 🎯 My GitHub Commits Stats 🎯 <img src="Assests/giphy.gif" width="30"></h2>
-
- <img width=590 height=400 src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph">
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
          
-<h2 align="center"><img src="Assest/activity.gif" height="30"> Visitors <img src="Assest/activity.gif" height="30"></h2>
+<h2 align="center"><img src="Assest/activity.gif" height="30">My Github Commits and Insight <img src="Assest/activity.gif" height="30"></h2>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=1fbfb8"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/hiteshpatil2005?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=5A5A5B&labelColor=099DE2" >
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" >
   <a href="https://github.com/hiteshpatil2005?tab=followers"><img
-src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=5A5A5B&labelColor=099DE2" /></a>
-
+src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" /></a>
 </p>
-
+<div>
+    <a href="https://github.com/hiteshpatil2005">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&hide_border=true&title_color=00D1FF&text_color=00D1FF&hide_title=false&area=true&custom_title=Hitesh's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    </a>
+</div>
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assest/github-snake.svg" alt="snake"/>
 
