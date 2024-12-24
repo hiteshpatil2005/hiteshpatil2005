@@ -107,7 +107,43 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     </tr>
 </table>
 <br>
-<h2 align="center"> Competitive Coding Platforms :</h2><br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
+<!--Github Profile Stats--->
+    
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+<br/>
+<p align=center>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hiteshpatil2005&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+
+<p align=center>
+   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%" alt="top langs" />
+</p>
+ <!----Profile Views--->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+         
+<h2 align="center"><img src="Assest/activity.gif" height="30">My Github Commits and Insight <img src="Assest/activity.gif" height="30"></h2>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=1fbfb8"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/hiteshpatil2005?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" >
+  <a href="https://github.com/hiteshpatil2005?tab=followers"><img
+src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" /></a>
+</p>
+<div>
+    <a href="https://github.com/hiteshpatil2005">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&hide_border=true&title_color=00D1FF&text_color=00D1FF&hide_title=false&area=true&custom_title=Hitesh's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    </a>
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+ <h2 align="center"><img src="Assest/celebrate.png" width="40">Competitive Coding Platforms <img src="Assest/celebrate.png" width="40"></h2><br>
     <table align="center">
         <tr>
             <td align="center" width="100">
@@ -153,42 +189,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </td>
         </tr>
     </table>
-
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
-<!--Github Profile Stats--->
-    
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-<br/>
-<p align=center>
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hiteshpatil2005&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
-</p>
-
-<p align=center>
-   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%" alt="top langs" />
-</p>
- <!----Profile Views--->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
-         
-<h2 align="center"><img src="Assest/activity.gif" height="30">My Github Commits and Insight <img src="Assest/activity.gif" height="30"></h2>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=1fbfb8"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/hiteshpatil2005?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" >
-  <a href="https://github.com/hiteshpatil2005?tab=followers"><img
-src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" /></a>
-</p>
-<div>
-    <a href="https://github.com/hiteshpatil2005">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&hide_border=true&title_color=00D1FF&text_color=00D1FF&hide_title=false&area=true&custom_title=Hitesh's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
-    </a>
-</div>
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assest/github-snake.svg" alt="snake"/>
 
