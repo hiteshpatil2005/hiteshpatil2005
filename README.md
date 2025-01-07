@@ -46,14 +46,11 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <a href="https://skillicons.dev">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
-            </a>
             <br>Java
         </td>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
-            </a>
             <br>Python
         </td>
         <td align="center" width="96">
@@ -61,15 +58,11 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>React
         </td>
         <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
             <br>HTML
         </td>
          <td align="center" width="96">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=css" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
             <br>CSS
         </td>
     </tr>
@@ -79,34 +72,25 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c" />
-            </a>
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="48" height="48"/>
             <br>C
         </td>
         <td align="center" width="96">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=kotlin" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/>
             <br>Kotlin
         </td>
         <td align="center" width="96">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=androidstudio" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/>
             <br>Android Studio
         </td>
         <td align="center" width="96">
-            <a href="https://skillicons.dev">
-            <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
-            </a>
+            <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="48" height="48"/>
             <br>Firebase
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" />
-            </a>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48"/>
             <br>IntelliJ
         </td>
         <td align="center" width="96">
@@ -115,17 +99,14 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </td>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="48" height="48" />
-            </a>
             <br>Git
         </td>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
-            </a>
             <br>Git Hub
         </td>
-         <td align="center" width="50">
-            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" />
-            </a>
+         <td align="center" width="96">
+            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" width="48" height="48"/>
             <br>XML
         </td>
     </tr>
@@ -170,22 +151,29 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
  <h2 align="center"><img src="Assest/celebrate.png" width="40">Competitive Coding Platforms <img src="Assest/celebrate.png" width="40"></h2><br>
     <table align="center">
         <tr>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://leetcode.com/u/hiteshpatil2005">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="48" height="48"/>
             </a>
+            <br>LeetCode
         </td>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://www.hackerrank.com/profile/hiteshpatil0205">
-            <img src="Assest/HackerRank.svg" />
+              <img src="Assest/HackerRank.svg" width="48" height="48"/>
+            </a>
+            <br>HackerRank    
         </td>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://www.codechef.com/users/hitesh_2005">
-            <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" />
+            <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="48" height="48"/>
+            </a>
+            <br>CodeChef
         </td> 
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/user/hiteshpatil2005/">
-            <img src="Assest/gfg.png" />
+            <img src="Assest/gfg.png" width="48" height="48"/>
+            </a>
+            <br>GfG    
         </td>
         </tr>
     </table>
@@ -193,21 +181,21 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
   <h2 align="center"><img src="Assest/Follow.gif" width="50"> Connect With Me <img src="Assest/Follow.gif" width="50"></h2><br>
   <table align="center">
         <tr>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://www.linkedin.com/in/hiteshpatil2005">
-            <img src="Assest/linkedin%20gif.gif" />
+            <img src="Assest/linkedin%20gif.gif" width="48" height="48"/>
             </a>
             <br>Linkedin
         </td>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="https://twitter.com/hiteshpatil2005">
-            <img src="Assest/twitter.gif" />
+            <img src="Assest/twitter.gif" width="48" height="48"/>
             </a>
             <br>Twitter
         </td>
-            <td align="center" width="100">
+            <td align="center" width="96">
             <a href="mailto:hiteshpatil0205@gmail.com">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="48" height="48"/>
             </a>
             <br>Gmail
         </td>
