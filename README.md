@@ -45,22 +45,20 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center"><img src="Assest/Firecracker.webp" height="40"/>Languages and Tools <img src="Assest/Firecracker.webp" height="40"/></h2><br>
 <table align="center">
     <tr>
-        <td align="center" width="100">
+        <td align="center" width="96">
             <a href="https://skillicons.dev">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
             </a>
             <br>Java
         </td>
-        <td align="center" width="100">
+        <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
             </a>
             <br>Python
         </td>
-        <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c" />
-            </a>
-            <br>C
+        <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/a472c2ac-3426-4796-8f63-499c8cfe16fe" width="48" height="48" />
+            <br>React
         </td>
         <td align="center" width="100">
             <a href="https://skillicons.dev">
@@ -68,41 +66,67 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             </a>
             <br>HTML
         </td>
-        <td align="center" width="50">
-            <a href="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg">
-            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" />
-            </a>
-            <br>XML
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="100">
+         <td align="center" width="96">
             <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=css" />
             </a>
             <br>CSS
         </td>
-        <td align="center" width="100">
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />            
             <br>JavaScript
         </td>
-        <td align="center" width="100">
+        <td align="center" width="96">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c" />
+            </a>
+            <br>C
+        </td>
+        <td align="center" width="96">
             <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=kotlin" />
             </a>
             <br>Kotlin
         </td>
-        <td align="center" width="100">
+        <td align="center" width="96">
             <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=androidstudio" />
             </a>
             <br>Android Studio
         </td>
-        <td align="center" width="70">
+        <td align="center" width="96">
             <a href="https://skillicons.dev">
             <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
             </a>
             <br>Firebase
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" />
+            </a>
+            <br>IntelliJ
+        </td>
+        <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="48" height="48" />            
+            <br>VSCode
+        </td>
+        <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="48" height="48" />
+            </a>
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
+            </a>
+            <br>Git Hub
+        </td>
+         <td align="center" width="50">
+            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" />
+            </a>
+            <br>XML
         </td>
     </tr>
 </table>
