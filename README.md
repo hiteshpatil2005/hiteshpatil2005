@@ -33,7 +33,7 @@ in the field of Software Development.
 
 - Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository.
 
-- Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Python and its GUI framework Tkinter.
+- Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Kotlin and OpenWeather API.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
