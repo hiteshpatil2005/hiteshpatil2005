@@ -65,19 +65,19 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
             <br>CSS
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />            
             <br>JavaScript
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="48" height="48"/>
             <br>C
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/>
-            <br>Kotlin
+          <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
+          <br> Markdown
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/>
@@ -86,6 +86,14 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="48" height="48"/>
             <br>Firebase
+        </td>
+         <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/9e599390-3341-4c94-bd95-b2e7e09a0438" width="48" height="48"/>
+            <br>MySQL
+        </td>
+         <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/3232c76c-1c02-4bbe-a81b-6a1402887997" width="48" height="48"/>
+            <br>MongoDB
         </td>
     </tr>
     <tr>
@@ -108,6 +116,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
          <td align="center" width="96">
             <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" width="48" height="48"/>
             <br>XML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/>
+            <br>Kotlin
         </td>
     </tr>
 </table>
