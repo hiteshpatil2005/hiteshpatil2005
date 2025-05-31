@@ -88,7 +88,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>Firebase
         </td>
          <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/9e599390-3341-4c94-bd95-b2e7e09a0438" width="48" height="48"/>
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/>
             <br>MySQL
         </td>
          <td align="center" width="96">
