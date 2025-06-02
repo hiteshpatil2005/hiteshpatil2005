@@ -54,71 +54,71 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>Python
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/a472c2ac-3426-4796-8f63-499c8cfe16fe" width="48" height="48" />
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/a472c2ac-3426-4796-8f63-499c8cfe16fe" width="40" height="40" />
             <br>React
         </td>
         <td align="center" width="100">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
             <br>HTML
         </td>
          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
             <br>CSS
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />            
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="40" height="40" />            
             <br>JavaScript
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="48" height="48"/>
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="40" height="40"/>
             <br>C
         </td>
         <td align="center" width="96">
-          <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
+          <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="40" height="40" />
           <br> Markdown
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/>
             <br>Android Studio
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="48" height="48"/>
+            <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" height="40"/>
             <br>Firebase
         </td>
          <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/>
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40"/>
             <br>MySQL
         </td>
          <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/3232c76c-1c02-4bbe-a81b-6a1402887997" width="48" height="48"/>
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/3232c76c-1c02-4bbe-a81b-6a1402887997" width="40" height="40"/>
             <br>MongoDB
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
             <br>IntelliJ
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="48" height="48" />            
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="40" height="40" />            
             <br>VSCode
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="48" height="48" />
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="40" height="40" />
             <br>Git
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="40" height="40" />
             <br>Git Hub
         </td>
          <td align="center" width="96">
-            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" width="48" height="48"/>
+            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" width="40" height="40"/>
             <br>XML
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>
             <br>Kotlin
         </td>
     </tr>
