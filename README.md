@@ -183,7 +183,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         </td> 
             <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/user/hiteshpatil2005/">
-            <img src="Assest/gfg.png" width="48" height="48"/>
+            <img src="Assest/gfg.png" width="40" height="40"/>
             </a>
             <br>GfG    
         </td>
@@ -207,7 +207,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         </td>
             <td align="center" width="96">
             <a href="mailto:hiteshpatil0205@gmail.com">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="48" height="48"/>
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" height="40"/>
             </a>
             <br>Gmail
         </td>
