@@ -177,7 +177,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         </td>
             <td align="center" width="96">
             <a href="https://www.codechef.com/users/hitesh_2005">
-            <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="48" height="48"/>
+            <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="40" height="40"/>
             </a>
             <br>CodeChef
         </td> 
