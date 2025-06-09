@@ -224,7 +224,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
  <img height="300" width="450" src="Assest/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
  </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=❤️+Thanks+For+Visiting+❤️;Keep+Coding+.....+!!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+Visiting...!;Let's+Turn+Idea+into+Impact!!" alt="Typing SVG" />
 </h1>
 <!--Footer-->
 <div align="center">
