@@ -165,7 +165,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         <tr>
             <td align="center" width="96">
             <a href="https://leetcode.com/u/hiteshpatil2005">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="48" height="48"/>
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="40" height="40"/>
             </a>
             <br>LeetCode
         </td>
