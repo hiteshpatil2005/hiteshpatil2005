@@ -195,7 +195,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         <tr>
             <td align="center" width="96">
             <a href="https://www.linkedin.com/in/hiteshpatil2005">
-            <img src="Assest/linkedin%20gif.gif" width="48" height="48"/>
+            <img src="Assest/linkedin%20gif.gif" width="40" height="40"/>
             </a>
             <br>Linkedin
         </td>
