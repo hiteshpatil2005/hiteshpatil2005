@@ -171,7 +171,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
         </td>
             <td align="center" width="96">
             <a href="https://www.hackerrank.com/profile/hiteshpatil0205">
-              <img src="Assest/HackerRank.svg" width="48" height="48"/>
+              <img src="Assest/HackerRank.svg" width="40" height="40"/>
             </a>
             <br>HackerRank    
         </td>
