@@ -99,6 +99,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/3232c76c-1c02-4bbe-a81b-6a1402887997" width="40" height="40"/>
             <br>MongoDB
         </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
+          <br>Arduino
+        </td>
     </tr>
     <tr>
         <td align="center" width="96">
