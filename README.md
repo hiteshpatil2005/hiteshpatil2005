@@ -118,7 +118,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>Git
         </td>
         <td align="center" width="96">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
             <br>Git Hub
         </td>
          <td align="center" width="96">
