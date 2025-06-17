@@ -69,6 +69,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="40" height="40" />            
             <br>JavaScript
         </td>
+         <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
+          <br>Tailwind
+        </td>
     </tr>
     <tr>
         <td align="center" width="96">
