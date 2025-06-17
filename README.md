@@ -129,6 +129,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>
             <br>Kotlin
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
+            <br>Kali Linux
+        </td>
     </tr>
 </table>
 <br>
