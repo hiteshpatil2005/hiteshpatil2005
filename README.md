@@ -14,8 +14,7 @@
 <!--Github Trophies--->
 ### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="40">
 
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--About Me Section--->
 
