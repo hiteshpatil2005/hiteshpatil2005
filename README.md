@@ -145,9 +145,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
 
-<p align=center>
-   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="90%" alt="top langs" />
+<p align="center">
+<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML&langs_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
 </p>
+
  <!----Profile Views--->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
