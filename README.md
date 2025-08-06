@@ -71,12 +71,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
           <br>Tailwind
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="40" height="40"/>
             <br>C
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
           <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="40" height="40" />
           <br> Markdown
@@ -101,8 +101,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
           <br>Arduino
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
             <br>IntelliJ
@@ -111,6 +109,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="40" height="40" />            
             <br>VSCode
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="40" height="40" />
             <br>Git
@@ -130,6 +130,18 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
             <br>Kali Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://img.icons8.com/?size=96&id=9b5wowKIlo9d&format=png" width="40" height="40" alt="Redis" />
+            <br>NMAP
+        </td>
+        <td align="center" width="96">
+            <img src="https://i.pinimg.com/736x/ec/33/8e/ec338e8950e48d957ca60fceb5f59084.jpg" width="40" height="40" alt="Redis" />
+            <br>John the Ripper
+        </td>
+        <td align="center" width="96">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2hoJMD9JqUAq8h2pSGNkSMfbQRRw5B4JSFyhQf_O1aK3r1H8AT81D0FOqKUkoPIewxI&usqp=CAU" width="40" height="40" alt="Redis" />
+            <br>SET
         </td>
     </tr>
 </table>
